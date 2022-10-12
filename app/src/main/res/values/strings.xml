@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Honkway1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="log_In">Log In</string>
+    <string name="account_Overview">Account Overview</string>
+    <string name="power_On">Power On</string>
+    <string name="power_Off">Power Off</string>
+    <string name="unassign_Pc">Unassign Pc</string>
+    <string name="assign_Pc">Assign Pc</string>
+    <string name="list_Pc_Types">List Pc Types</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="userData">explanation</string>
+    <string name="ok">OK</string>
+    <string name="checkStatus">Check Status</string>
+</resources>
